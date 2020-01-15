@@ -4,11 +4,11 @@
  *
  * Description. (use period)
  *
- * @link https://wordpress.org/plugins/woocommerce-role-based-price/
- * @package WooCommerce Role Based Price
- * @subpackage WooCommerce Role Based Price/core
- * @since 3.0
+ * @link       https://wordpress.org/plugins/woocommerce-role-based-price/
+ * @package    Role Based Price For WooCommerce
+ * @subpackage Role Based Price For WooCommerce/core
+ * @since      3.0
  */
-if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
-	exit;
+if( ! defined('WP_UNINSTALL_PLUGIN') ) {
+    exit;
 }
